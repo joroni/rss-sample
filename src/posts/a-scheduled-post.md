@@ -31,3 +31,7 @@ How about an ordered list of stuff:
 
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+
+
+![The top of a grey concrete building with a blue sky in the background](/images/social-share.jpg "Brutalism at its finest. Photo by Artificial Photography on Unsplash.")

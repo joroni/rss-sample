@@ -6,6 +6,10 @@ tags:
   - code
   - blog
 ---
+
+![The top of a grey concrete building with a blue sky in the background](/images/demo-image-2.jpg "Brutalism at its finest. Photo by Artificial Photography on Unsplash.")
+
+
 The best way to demo a code post is to display a real life post, so check out this one from [andy-bell.design](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/) about a full bleed CSS utility.
 
 - - -
